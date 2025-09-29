@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Photography Services",
+    "description": "Professional photography for all occasions",
+    "icon": "Camera",
+    "color": "pink",
+    "services": [
+      "Wedding Photography",
+      "Pre-Wedding Shoots",
+      "Portrait Photography",
+      "Event Photography",
+      "Product Photography",
+      "Fashion Photography"
+    ]
+  },
+  {
+    "title": "Videography Services",
+    "description": "Cinematic video production and editing",
+    "icon": "Video",
+    "color": "blue",
+    "services": [
+      "Wedding Videography",
+      "Event Coverage",
+      "Corporate Videos",
+      "Music Videos",
+      "Documentary Films",
+      "Commercial Ads"
+    ]
+  },
+  {
+    "title": "Event Management",
+    "description": "Complete event planning and coordination",
+    "icon": "Monitor",
+    "color": "green",
+    "services": [
+      "Wedding Planning",
+      "Corporate Events",
+      "Birthday Parties",
+      "Anniversary Celebrations",
+      "Cultural Events",
+      "Stage Decoration"
+    ]
+  }
+]

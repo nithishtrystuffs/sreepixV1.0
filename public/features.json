@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Camera",
+    "title": "Professional Equipment",
+    "description": "Latest DSLR cameras and professional lighting equipment for stunning results"
+  },
+  {
+    "icon": "Video",
+    "title": "4K Video Recording",
+    "description": "Ultra-high definition video recording with professional audio equipment"
+  },
+  {
+    "icon": "Drone",
+    "title": "Aerial Photography",
+    "description": "Drone photography and videography for unique perspectives and stunning shots"
+  },
+  {
+    "icon": "HardDrive",
+    "title": "Digital Delivery",
+    "description": "All photos and videos delivered digitally with cloud backup and storage"
+  },
+  {
+    "icon": "Monitor",
+    "title": "Same Day Editing",
+    "description": "Quick turnaround with same-day highlight reels for immediate sharing"
+  },
+  {
+    "icon": "Music",
+    "title": "Audio Recording",
+    "description": "Professional audio recording for ceremonies and speeches"
+  }
+]

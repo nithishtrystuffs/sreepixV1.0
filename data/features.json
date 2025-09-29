@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Camera",
+    "title": "Professional Equipment",
+    "description": "Latest DSLR cameras and professional lighting equipment"
+  },
+  {
+    "icon": "Video",
+    "title": "4K Video Recording",
+    "description": "Ultra-high definition video recording with cinematic quality"
+  },
+  {
+    "icon": "Drone",
+    "title": "Drone Photography",
+    "description": "Aerial shots and unique perspectives for your special moments"
+  },
+  {
+    "icon": "Music",
+    "title": "Audio Recording",
+    "description": "Crystal clear audio recording for events and ceremonies"
+  },
+  {
+    "icon": "Monitor",
+    "title": "Live Streaming",
+    "description": "Professional live streaming services for virtual attendance"
+  },
+  {
+    "icon": "HardDrive",
+    "title": "Cloud Storage",
+    "description": "Secure cloud backup and easy access to all your photos and videos"
+  }
+]

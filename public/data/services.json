@@ -1,0 +1,82 @@
+[
+  {
+    "id": "urudhi_photography",
+    "description": "Urudhi Photography Package",
+    "category": "urudhi",
+    "unit": "event",
+    "rate": 15000,
+    "defaultQty": 1
+  },
+  {
+    "id": "urudhi_videography",
+    "description": "Urudhi Videography Package",
+    "category": "urudhi",
+    "unit": "event",
+    "rate": 20000,
+    "defaultQty": 1
+  },
+  {
+    "id": "ennai_seer_photography",
+    "description": "Ennai Seer Photography",
+    "category": "ennai_seer_reception_wedding",
+    "unit": "event",
+    "rate": 12000,
+    "defaultQty": 1
+  },
+  {
+    "id": "reception_photography",
+    "description": "Reception Photography Package",
+    "category": "ennai_seer_reception_wedding",
+    "unit": "event",
+    "rate": 25000,
+    "defaultQty": 1
+  },
+  {
+    "id": "wedding_photography",
+    "description": "Wedding Day Photography",
+    "category": "ennai_seer_reception_wedding",
+    "unit": "event",
+    "rate": 30000,
+    "defaultQty": 1
+  },
+  {
+    "id": "wedding_videography",
+    "description": "Wedding Day Videography",
+    "category": "ennai_seer_reception_wedding",
+    "unit": "event",
+    "rate": 35000,
+    "defaultQty": 1
+  },
+  {
+    "id": "post_wedding_shoot",
+    "description": "Post Wedding Photography Session",
+    "category": "post_wedding",
+    "unit": "session",
+    "rate": 18000,
+    "defaultQty": 1
+  },
+  {
+    "id": "album_design",
+    "description": "Wedding Album Design & Print",
+    "category": "post_wedding",
+    "unit": "album",
+    "rate": 8000,
+    "defaultQty": 1
+  },
+  {
+    "id": "drone_photography",
+    "description": "Aerial Drone Photography",
+    "category": "ennai_seer_reception_wedding",
+    "unit": "event",
+    "rate": 10000,
+    "defaultQty": 1
+  },
+  {
+    "id": "pre_wedding_shoot",
+    "description": "Pre-Wedding Photography Session",
+    "category": "post_wedding",
+    "unit": "session",
+    "rate": 15000,
+    "defaultQty": 1
+  }
+]

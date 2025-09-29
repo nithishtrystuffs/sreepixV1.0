@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Wedding Photography",
+    "description": "Complete wedding documentation from ceremonies to celebrations",
+    "icon": "Camera",
+    "color": "pink",
+    "services": [
+      "Pre-wedding shoots",
+      "Engagement ceremonies",
+      "Wedding day coverage",
+      "Reception photography",
+      "Traditional ceremonies",
+      "Candid photography"
+    ]
+  },
+  {
+    "title": "Event Videography",
+    "description": "Professional video coverage for all your special moments",
+    "icon": "Video",
+    "color": "blue",
+    "services": [
+      "Cinematic wedding films",
+      "Event highlights",
+      "Live streaming",
+      "Drone videography",
+      "Documentary style",
+      "Music videos"
+    ]
+  },
+  {
+    "title": "Event Management",
+    "description": "Complete event planning and coordination services",
+    "icon": "Monitor",
+    "color": "green",
+    "services": [
+      "Wedding planning",
+      "Venue coordination",
+      "Vendor management",
+      "Timeline planning",
+      "Decoration setup",
+      "Guest coordination"
+    ]
+  }
+]

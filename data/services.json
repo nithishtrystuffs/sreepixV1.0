@@ -1,0 +1,83 @@
+[
+  {
+    "id": "wedding-basic",
+    "title": "Wedding Basic Package",
+    "price": 25000,
+    "duration": "6 hours",
+    "description": "Essential wedding photography coverage",
+    "features": ["6 hours of photography", "200+ edited photos", "Online gallery", "Basic album (50 photos)"],
+    "category": "wedding"
+  },
+  {
+    "id": "wedding-premium",
+    "title": "Wedding Premium Package",
+    "price": 45000,
+    "duration": "8 hours",
+    "description": "Comprehensive wedding photography and videography",
+    "features": [
+      "8 hours of photography",
+      "4 hours of videography",
+      "400+ edited photos",
+      "Highlight video (3-5 min)",
+      "Premium album (100 photos)",
+      "Online gallery",
+      "USB drive"
+    ],
+    "category": "wedding"
+  },
+  {
+    "id": "wedding-luxury",
+    "title": "Wedding Luxury Package",
+    "price": 75000,
+    "duration": "Full day",
+    "description": "Complete wedding documentation with premium services",
+    "features": [
+      "Full day coverage",
+      "Pre-wedding shoot",
+      "Drone photography",
+      "600+ edited photos",
+      "Full ceremony video",
+      "Highlight reel",
+      "Luxury album (150 photos)",
+      "Online gallery",
+      "USB drive",
+      "Same day highlights"
+    ],
+    "category": "wedding"
+  },
+  {
+    "id": "portrait-session",
+    "title": "Portrait Session",
+    "price": 8000,
+    "duration": "2 hours",
+    "description": "Professional portrait photography session",
+    "features": ["2 hours studio/outdoor session", "50+ edited photos", "Online gallery", "Print-ready files"],
+    "category": "portrait"
+  },
+  {
+    "id": "event-coverage",
+    "title": "Event Coverage",
+    "price": 15000,
+    "duration": "4 hours",
+    "description": "Professional event photography and videography",
+    "features": ["4 hours of coverage", "200+ edited photos", "Event highlights video", "Online gallery", "USB drive"],
+    "category": "event"
+  },
+  {
+    "id": "corporate-package",
+    "title": "Corporate Package",
+    "price": 20000,
+    "duration": "Half day",
+    "description": "Professional corporate event documentation",
+    "features": [
+      "Half day coverage",
+      "Professional headshots",
+      "Event documentation",
+      "300+ edited photos",
+      "Corporate video",
+      "Online gallery",
+      "Commercial usage rights"
+    ],
+    "category": "corporate"
+  }
+]
